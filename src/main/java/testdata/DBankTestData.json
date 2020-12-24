@@ -1,0 +1,25 @@
+[
+
+  {
+    "strUsername": "truong922946@gmail.com",
+    "strPassword": "Truong922946"
+  },
+  {
+    "Title": "Mr.",
+    "FirstName": "Truong",
+    "LastName": "Nguyen",
+    "Dob": "03/23/1997",
+    "Ssn": "351-23-3112",
+    "Email": "truong9101173817111@gmail.com",
+    "Password": "Truong946",
+    "ConfirmPW": "Truong946",
+    "Address": "31 Le Duan",
+  "Locality": "HoChiMinh",
+    "Region": "Vietnam",
+    "PostalCode": "550000",
+    "Country": "Vietnam",
+    "HomePhone": "(231) 223-4118",
+    "MobilePhone": "(153) 111-4235",
+    "WorkPhone": "(452) 311-2113"
+  }
+]

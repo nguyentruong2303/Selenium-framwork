@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/baemin/Downloads/Selenium-framwork"><classes><class name="tests.Dbank.LoginDBankTest"><methods><include name="loginCorrectCredentialTest"/><include name="loginInCorrectCredentialTest"/></methods></class></classes></test></suite>
